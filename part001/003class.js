@@ -1,4 +1,5 @@
 "use strict";
+console.log('----------类---------003class.ts');
 // 类
 class People {
     constructor(name, age) {

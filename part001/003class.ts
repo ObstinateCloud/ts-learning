@@ -1,3 +1,4 @@
+console.log('----------类---------003class.ts');
 // 类
 class People {
   name: string
